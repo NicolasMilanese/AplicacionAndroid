@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trabajo_Practico3</string>
+    <string name="Ingresar">INICIAR SESION</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Incorrecto">El nombre de usuario y contraseña son incorrectos</string>
+    <string name="Salir">Salir</string>
+    <string name="Acerca">Acerca de</string>
+    <string name="info">Netflix, Inc. es una empresa de entretenimiento y una plataforma de streaming estadounidense. Ubicada en Los Gatos (California), la compañía fue fundada el 29 de agosto de 1997 y un año después comenzó su actividad, ofreciendo un servicio de alquiler de DVD a través del correo postal.4​ Actualmente, Netflix participa en la producción de obras audiovisuales, desde la creación o adquisición del producto hasta su difusión mundial.</string>
+    <string name="Volver">Volver</string>
+    <string name="Nombre">Nombre: Nicolas Milanese Alejo</string>
+    <string name="Datos">Datos del programador</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+
+
+</resources>

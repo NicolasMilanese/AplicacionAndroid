@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trabajo_Practico3</string>
+    <string name="Ingresar">LOGIN</string>
+    <string name="Usuario">User</string>
+    <string name="Contraseña">Password</string>
+    <string name="Incorrecto">The username and password are incorrect</string>
+    <string name="Salir">Exit</string>
+    <string name="Acerca">About as</string>
+    <string name="info">Netflix, Inc. is an American entertainment company and streaming platform. Located in Los Gatos, California, the company was founded on August 29, 1997, and began its operations a year later, offering a DVD rental service via postal mail. Currently, Netflix is involved in the production of audiovisual works, from creating or acquiring content to its worldwide distribution.</string>
+    <string name="Volver">Back</string>
+    <string name="Nombre">Name: Nicolas Milanese Alejo</string>
+    <string name="Datos">Developer information</string>
+    <string name="Telefono">Phone</string>
+    <string name="Email">Email</string>
+</resources>
